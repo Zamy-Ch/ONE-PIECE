@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ONE PIECE</title>
+    <link rel="stylesheet" href="est.css" />
+  </head>
+
+  <body>
+    <nav>
+      <ul>
+        <li class="ti">ONE PIECE |</li>
+        <li><a class="boton" href="#ini">INICIO</a></li>
+        <li><a class="boton" href="#per">PERSONAJES</a></li>
+        <li><a class="boton" href="#tra">TRAILER</a></li>
+      </ul>
+    </nav>
+    <section class="caja">
+      <article class="cont">
+        <a id="ini"></a>
+        <h2>INICIO</h2>
+        <img
+          src="https://i.pinimg.com/originals/f8/e4/8e/f8e48eedaa7f6f39d3cf10d58f20fb72.jpg"
+        />
+        <span>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos! Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Reprehenderit quo quis placeat aliquam,
+          est dicta repellendus et exercitationem quibusdam adipisci fugit animi
+          voluptates molestiae? Autem doloribus ex qui tempora iusto! Lorem
+          ipsum, dolor sit amet consectetur adipisicing elit. Voluptate
+          reiciendis consequuntur quasi asperiores non dicta mollitia omnis
+          possimus ipsa tempore! Doloremque exercitationem praesentium beatae
+          fugiat aspernatur doloribus mollitia eveniet veritatis?
+        </span>
+      </article>
+      <article>
+        <a id="per"></a>
+        <h2>PERSONAJES</h2>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos! Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Praesentium sapiente similique porro!
+          Exercitationem laudantium excepturi, iste, enim doloribus magnam quae
+          debitis iusto quam distinctio autem harum. Quas libero sunt animi?
+          <br />
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat earum
+          quidem, quod beatae sequi cum nostrum vel sit libero suscipit! Veniam
+          ipsa dolorum facilis nemo commodi quibusdam iste molestias? Quia?
+        </p>
+        <img
+          src="https://www.mundodeportivo.com/alfabeta/hero/2021/02/Los-personajes-de-One-Piece-lucen-increibles-en-esta-ilustracion-lenticular.jpg?width=1200"
+          alt=""
+          class="center"
+        />
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos!
+        </p>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos!
+        </p>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos!
+        </p>
+      </article>
+      <article>
+        <a id="tra"></a>
+        <h2>TRAILER</h2>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos!
+        </p>
+        <iframe
+          width="453"
+          height="280"
+          src="https://www.youtube.com/embed/sSovEWQGTwg"
+          title="One Piece: La Historia de LUFFY 🔶 | La vida de Monkey D. Luffy: Parte 1"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+          class="center"
+        ></iframe>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos!
+        </p>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos!
+        </p>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos!
+        </p>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
+          reprehenderit laboriosam in minima deserunt, similique illum nobis,
+          ipsam laborum debitis repellendus, velit hic perspiciatis tenetur
+          architecto dolores eveniet. Pariatur, eos!
+        </p>
+      </article>
+    </section>
+    <footer class="pie">
+        <button class="boton2"><p>DERECHOS RESERVADOS</p></button>
+    </footer>
+  </body>
+</html>
